@@ -7,7 +7,12 @@ fastboot flash dtbo dtbo.img
 fastboot boot recovery
 adb sideload rom.zip
 ```
-*Flashing Steps from pos*
+*Flashing Steps from pos recovery*
+```bash
+Reboot to recovery
+adb sideload rom.zip
+```
+*Flashing steps from derpfest recovery*
 ```bash
 Reboot to recovery
 adb sideload rom.zip
