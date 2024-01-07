@@ -2,12 +2,12 @@
 {
   "response": [
     {
-      "datetime": 1703473280,
-      "filename": "",
-      "id": "233ed382706d1f63d47ac9d0d4153f29b7b1b3e8fbff99a6f4b6cae521f54920",
+      "datetime": 1641579000,
+      "filename": "DerpFest-14-Official-Beta-oscar-20240107.zip",
+      "id": "d39285c090b41c499877f93201c8c135c7f2acc88b5caa9bd61a37640cae92df",
       "romtype": "Official",
-      "size": 1765982329,
-      "url": "",
+      "size": 2058866854,
+      "url": "https://github.com/phhgsi/derpfest_releases/releases/download/V1.3/DerpFest-14-Official-Beta-oscar-20240107.zip",
       "version": "14"
     }
   ]
